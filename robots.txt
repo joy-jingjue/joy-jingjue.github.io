@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://joy-jingjue.github.io/sitemap.xml 
